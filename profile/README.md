@@ -1,0 +1,124 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AE-HYU&fontSize=90&animation=fadeIn&fontAlignY=38&desc=F1Tenth%20Autonomous%20Racing%20Team&descAlignY=65&descAlign=62)
+
+### 🏎️ **Building F1Tenth Autonomous Racing Cars** 🏎️
+
+**Racing towards autonomous excellence in F1Tenth competition**
+
+</div>
+
+---
+
+<div align="center">
+
+## **Our Team**
+
+</div>
+
+### **Leadership**
+- **Name** - Team Leader
+  - Role description and expertise
+
+### **Team Members**
+- **Name** - Role
+  - Responsibilities and expertise
+- **Name** - Role
+  - Responsibilities and expertise
+
+<div align="center">
+
+## **Project Overview**
+
+</div>
+
+We are developing autonomous F1Tenth racing cars for competition. Our team focuses on three core areas:
+
+<div align="center">
+
+| **Perception** | **Planning** | **Control** |
+|:---:|:---:|:---:|
+| Processing sensor data and environment understanding | Path planning and decision making algorithms | Vehicle control and actuation systems |
+| SLAM, Localization, Object Detection | Global & Local trajectory planning | Controller implementations |
+
+</div>
+
+<div align="center">
+
+## **Repository Architecture**
+
+</div>
+
+### **Main Repository Structure**
+```
+ae_hyu_workspace/
+├── main_workspace/            # Main F1Tenth workspace
+├── perception/               # Perception algorithms
+├── planning/                 # Path planning systems
+└── control/                  # Control systems
+```
+
+<div align="center">
+
+### **Technology Stack**
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+
+</div>
+
+### **Key Repositories**
+Our organization maintains repositories covering various aspects of autonomous F1Tenth racing:
+
+| **Category** | **Repositories** | **Description** |
+|:---:|:---:|:---|
+| **Core Systems** | `workspace`, `algorithms` | Main F1Tenth implementations |
+| **Perception** | `slam`, `localization` | SLAM and localization systems |
+| **Planning & Control** | `planning`, `control` | Path planning and control systems |
+
+<div align="center">
+
+## **Getting Started**
+
+</div>
+
+### **Prerequisites**
+- **ROS2** (Humble/Iron recommended)
+- **Ubuntu 22.04 LTS**
+- **F1Tenth hardware platform**
+
+### **Quick Setup**
+
+<div align="center">
+
+| **Step** | **Command** | **Description** |
+|:---:|:---|:---|
+| **1** | `git clone <repo_url>` | Clone main repository |
+| **2** | `cd workspace && colcon build` | Build workspace |
+| **3** | `source install/setup.bash` | Source environment |
+
+</div>
+
+### **Usage Guidelines**
+
+<div align="center">
+
+| **User Level** | **Starting Point** | **Focus Areas** |
+|:---:|:---:|:---|
+| **Beginners** | `base_code` | Understanding F1Tenth basics |
+| **Developers** | `main_workspace` | Algorithm development and testing |
+| **Competition** | `race_config` | Competition deployment |
+
+</div>
+
+---
+
+<div align="center">
+
+**AE-HYU - Racing towards autonomous excellence**
+
+*F1Tenth Autonomous Racing Team*
+
+</div>
