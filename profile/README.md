@@ -51,7 +51,7 @@ We are developing autonomous F1Tenth racing cars for competition. Our team focus
 
 ### **Main Repository Structure**
 ```
-ae_hyu_workspace/
+ae_hyu_bundle/
 ├── main_workspace/            # Main F1Tenth workspace
 ├── perception/               # Perception algorithms
 ├── planning/                 # Path planning systems
