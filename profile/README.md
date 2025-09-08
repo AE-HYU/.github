@@ -4,6 +4,7 @@
 
 ### 🏎️ **Building F1Tenth Autonomous Racing Cars** 🏎️
 
+**Automotive Engineering - Hanyang University**
 **Racing towards autonomous excellence in F1Tenth competition**
 
 </div>
@@ -49,18 +50,9 @@ We are developing autonomous F1Tenth racing cars for competition. Our team focus
 
 </div>
 
-### **Main Repository Structure**
-```
-ae_hyu_bundle/
-├── main_workspace/            # Main F1Tenth workspace
-├── perception/               # Perception algorithms
-├── planning/                 # Path planning systems
-└── control/                  # Control systems
-```
+### **Technology Stack**
 
 <div align="center">
-
-### **Technology Stack**
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
@@ -70,13 +62,25 @@ ae_hyu_bundle/
 </div>
 
 ### **Key Repositories**
-Our organization maintains repositories covering various aspects of autonomous F1Tenth racing:
 
-| **Category** | **Repositories** | **Description** |
-|:---:|:---:|:---|
-| **Core Systems** | `workspace`, `algorithms` | Main F1Tenth implementations |
-| **Perception** | `slam`, `localization` | SLAM and localization systems |
-| **Planning & Control** | `planning`, `control` | Path planning and control systems |
+<div align="center">
+
+| **Repository** | **Category** | **Description** |
+|:---|:---:|:---|
+| [F1Tenth_System](https://github.com/AE-HYU/f1tenth_system.git) | Core Systems | Basic package to drive vehicle |
+| [AE_HYU_Bundle](https://github.com/AE-HYU/ae_hyu_bundle.git) | Core Systems | Core bundle package for autonomous system |
+| [Global_Planner](https://github.com/AE-HYU/global_planner.git) | Planning | Global Path Planner |
+| [Cartographer_SLAM](https://github.com/AE-HYU/cartographer_slam.git) | Perception | Mapping and SLAM system |
+
+</div>
+
+### **Main Repository Structure**
+```
+ae_hyu_bundle/
+├── perception/               # Perception algorithms
+├── planning/                 # Path planning systems
+└── control/                  # Control systems
+```
 
 <div align="center">
 
