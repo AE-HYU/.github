@@ -111,17 +111,6 @@ ae_hyu_bundle/
 
 </div>
 
-### **Usage Guidelines**
-
-<div align="center">
-
-| **User Level** | **Starting Point** | **Focus Areas** |
-|:---:|:---:|:---|
-| **Beginners** | `base_code` | Understanding F1Tenth basics |
-| **Developers** | `main_workspace` | Algorithm development and testing |
-| **Competition** | `race_config` | Competition deployment |
-
-</div>
 
 ---
 
