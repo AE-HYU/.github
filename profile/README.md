@@ -30,6 +30,8 @@
   - Responsibilities and expertise
 - **Name** - Role
   - Responsibilities and expertise
+- **Name** - Role
+  - Responsibilities and expertise
 
 <div align="center">
 
