@@ -4,7 +4,7 @@
 
 ### 🏎️ **Building F1Tenth Autonomous Racing Cars** 🏎️
 
-**Automotive Engineering - Hanyang University**
+**Automotive Engineering - Hanyang University**  
 **Racing towards autonomous excellence in F1Tenth competition**
 
 </div>
