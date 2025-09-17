@@ -76,7 +76,7 @@ We are developing autonomous F1Tenth racing cars for competition. Our team focus
 | [F1Tenth_System](https://github.com/AE-HYU/f1tenth_system.git) | Core Systems | Basic package to drive vehicle |
 | [AE_HYU_Bundle](https://github.com/AE-HYU/ae_hyu_bundle.git) | Core Systems | Core bundle package for autonomous system |
 | [Global_Planner](https://github.com/AE-HYU/global_planner.git) | Planning | Global Path Planner |
-| [Cartographer_SLAM](https://github.com/AE-HYU/cartographer_slam.git) | Perception | Mapping and SLAM system |
+| [Cartographer_SLAM](https://github.com/AE-HYU/cartographer_mapping) | Perception | Mapping and SLAM system |
 
 </div>
 
