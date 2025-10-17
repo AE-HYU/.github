@@ -97,7 +97,6 @@ ae_hyu_bundle/
 │   │   └── object_detection/       # Object detection
 │   ├── planning_ws/
 │   │   ├── planner_pkg/            # Cubic spline path planner (main)
-│   │   └── lattice_planner_pkg/    # Lattice-based path planner
 │   └── control_ws/
 │       └── crazy_controller/       # Vehicle dynamics controller
 ```
