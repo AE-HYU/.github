@@ -27,7 +27,7 @@
 ### **Team Members**
 
 **Perception Team**
-- **Mingi Ju** - Localization (MCL), Code Maintenance
+- **Minki Ju** - Localization (MCL), Code Maintenance
 - **Dahye Kim** - Object Detection, Team Schedule Organization
 
 **Planning Team**
@@ -35,7 +35,7 @@
 - **Yongsu Lee** - Local Planning, File Management
 
 **Control Team**
-- **Seogyeong Jang** - MAP Controller, External Cooperation
+- **Seokyeong Jang** - MAP Controller, External Cooperation
 
 <div align="center">
 
